@@ -3,6 +3,9 @@ Este repositório foi criado para documentar e compartilhar os passos que estou 
 
 
 
+
+
+
 ### Sobre o Curso
 O curso que estou frequentando é o **Descomplicando Kubernetes 2024** da **LINUXtips**. Ele aborda todos os passos para se tornar um especialista em Kubernetes e conseguir retirar suas certificações.
 
